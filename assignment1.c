@@ -39,7 +39,7 @@ int main(){
     printf("\n\n");
 
     //7
-    printf("\%d");
+    printf("%%d");
 
     printf("\n\n");
     
