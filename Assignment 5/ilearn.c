@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<ctype.h>
 
 int main(){
     printf("*******START*********\n\n");
