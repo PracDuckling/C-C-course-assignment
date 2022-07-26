@@ -62,9 +62,9 @@ int main(){
 
     //10
     printf("\n\nQ10\n\n");
-    printf("Enter the number upto which table of 5 is to be printed: ");
+    printf("Enter the number: ");
     scanf("%d", &n);
-    for(int i=1; i<=n;i++) printf("%d ", i*5);
+    for(int i=1; i<=10;i++) printf("%d ", i*n);
 
 
 
